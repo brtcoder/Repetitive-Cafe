@@ -1,6 +1,6 @@
 <h1>Welcome to the Repetitive Cafe</h1>
 <?php
-$drinks = [Beer=>5,Brandy=>10,Batida=>7,Gibson=>7,Ouzo=>10,Mojito=>7,Coffee=>2,Tea=>2];
+$drinks = ["Beer"=>5,"Brandy"=>10,"Batida"=>7,"Gibson"=>7,"Ouzo"=>10,"Mojito"=>7,"Coffee"=>2,"Tea"=>2];
 $pastries = ["Baklava", "Bear claw", "Pączek", "Croissant", "Macaron", "Pain au chocolat", "Strudel"];
 ?>
 
